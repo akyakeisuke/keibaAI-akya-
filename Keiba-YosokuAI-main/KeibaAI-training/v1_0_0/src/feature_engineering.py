@@ -150,6 +150,17 @@ class PredictionFeatureCreator:
         output_dir: Path = OUTPUT_DIR,
         output_filename: str = "features_prediction.csv",
     ):
+        # 現在の作業ディレクトリを出力
+        import os
+        print("Current working directory:", os.getcwd())
+
+         # ファイルパスの確認
+        from pathlib import Path
+        population_path = Path(population_dir) / population_filename
+        print(f"Resolved file path: {population_path.resolve()}")
+        print(f"Does the file exist? {population_path.exists()}")
+
+        # ァイルを読み込む処理
         self.population = pd.read_csv(population_dir / population_filename, sep="\t")
         self.horse_results = pd.read_csv(
             horse_results_dir / horse_results_filename, sep="\t"
@@ -233,10 +244,28 @@ class PredictionFeatureCreator:
         df["sex"] = df.iloc[:, 4].str[0].map(sex_mapping)
         df["age"] = df.iloc[:, 4].str[1:].astype(int)
         df["impost"] = df.iloc[:, 5].astype(float)
-        df["weight"] = df.iloc[:, 8].str.extract(r"(\d+)").astype(int)
-        df["weight_diff"] = df.iloc[:, 8].str.extract(r"\((.+)\)").astype(int)
-        df["tansho_odds"] = df.iloc[:, 9].astype(float)
-        df["popularity"] = df.iloc[:, 10].astype(int)
+        # df["weight"] = df.iloc[:, 8].str.extract(r"(\d+)").astype(int)
+        df["weight"] = df.iloc[:, 8].str.extract(r"(\d+)").fillna(0).astype(int)
+        # df["weight_diff"] = df.iloc[:, 8].str.extract(r"\((.+)\)").astype(int)
+        df["weight_diff"] = (
+            df.iloc[:, 8].str.extract(r"\((.+)\)")  # 括弧内の値を抽出
+            .replace("前計不", 0)  # 特殊値を0に置き換え
+            .fillna(0)  # 欠損値を0に置き換え
+            .astype(int)  # 整数型に変換
+        )
+
+        # df["tansho_odds"] = df.iloc[:, 9].astype(float)
+        df["tansho_odds"] = (
+            df.iloc[:, 9]
+            .replace("--", 0)  # 特殊値を0に置き換え
+            .astype(float)     # 浮動小数点型に変換
+        )
+        # df["popularity"] = df.iloc[:, 10].astype(int)
+        df["popularity"] = (
+            df.iloc[:, 10]
+            .replace("--", 0)  # 特殊値を0に置き換え
+            .astype(int)       # 整数型に変換
+        )
         df["race_id"] = int(race_id)
         # 使用する列を選択
         df = df[
