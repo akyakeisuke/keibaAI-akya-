@@ -223,6 +223,9 @@ min-width: unset;
 <!-- <li class="Special">
 <a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
+<li class="Builder New">
+<a href="https://builder.netkeiba.com/?rf=navi" title="AIビルダー" id="navi_link_builder">AIビルダー</a>
+</li>
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
 </li>
@@ -1457,10 +1460,6 @@ gnshbrequest.applyPassback("1492793", "[data-cptid='1492793']");
 
 </div><!-- /#contents -->
 <div class="LapTimeArea">
-<p class="master_course_infoText01">netkeibaに<em>「マスターコース」</em>が新登場!!</p>
-<div class="master_course_infoText02">
-<p><a href="https://dir.netkeiba.com/master_course/">今だけスーパープレミアムコースで限定公開中 詳細はこちら</a></p>
-</div>
 <span id="Race_Result_Horse_Laptime"></span>
 <script>
 function get_race_result_horse_laptime(_id, _show_id, _credit=0)

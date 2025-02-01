@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" id="html">
 <head>
 
-
+<title>トリトンステークス｜2025年1月26日 | 競馬データベース - netkeiba</title>
 
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -12,7 +12,6 @@
 <meta http-equiv="content-style-type" content="text/css" />
 <meta name="description" content="netkeibaが誇る国内最大級の競馬データベースです。50万頭以上の競走馬、騎手・調教師・馬主・生産者の全データがご覧いただけます。" />
 <meta name="keywords" content="競馬情報,競走馬,騎手,レース,調教師,馬主,検索,データベース,JRA,netkeiba,ネット競馬" />
-
 <!-- ogp用 -->
 <meta property="og:site_name" content="netkeiba" />
 <meta property="og:type" content="article" />
@@ -22,7 +21,6 @@
 <!-- Twitter用 -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:site" content="@netkeiba">
-
 <link href="https://cdn.netkeiba.com/img.db/common/css/reset.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/common.css?2020" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_detail.css?20240117" rel="stylesheet" type="text/css" media="all" />
@@ -34,24 +32,20 @@
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_classic_nk01.css?201911201" rel="stylesheet" type="text/css" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/colorbox.css" rel="stylesheet" type="text/css" />
 
-
-
-
 <script language="javascript">
 <!--
 b = navigator.userAgent.toUpperCase();
 if(b.indexOf("MAC") >= 0)
 {
-	cssFile = "mac.css?20221109";
+cssFile = "mac.css?20221109";
 }
 else
 {
-	cssFile = "win.css";
+cssFile = "win.css";
 }
 document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeiba.com/img.db/common/css/" + cssFile + "'>");
 // -->
 </script>
-
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery-1.8.2.min.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.cookie.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/fontsize.js?20160421"></script>
@@ -64,7 +58,6 @@ document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeib
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.touchSwipe.min.js?20160421"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.netkeiba.com/img.db/common/css/ajaxtabs.css?20160421" />
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.colorbox.js"></script>
-
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/ajaxtabs.js?20160421">
 /***********************************************
 * Ajax Tabs Content script v2.2- c Dynamic Drive DHTML code library (www.dynamicdrive.com)
@@ -74,7 +67,6 @@ document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeib
 </script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/get_ad_request.js"></script>
 <script type="text/javascript" src="/__utm.js"></script>
-
 <script type="text/javascript">
 <!--
 var _user_action_api_url    = 'https://cdn.netkeiba.com/img.user';
@@ -88,7 +80,6 @@ var _bbs_action_api_url     = 'https://bbs.netkeiba.com/';
 <script type="text/javascript" src="https://db.netkeiba.com/v1.1//common/js/social.action.js"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.bbs/common/js/bbs.action.js?2018053101"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.regist.sp//common/js/monthly_goods_link.js?2017080201"></script>
-
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.colorbox.js?20180321"></script>
 <link rel="stylesheet" href="https://cdn.netkeiba.com/img.db/common/css/colorbox.css?20180321" type="text/css" media="screen">
 <link rel="stylesheet" href="https://cdn.netkeiba.com/img.db/common/css/sweetalert_custom.css" type="text/css" media="screen">
@@ -232,6 +223,9 @@ min-width: unset;
 <!-- <li class="Special">
 <a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
+<li class="Builder New">
+<a href="https://builder.netkeiba.com/?rf=navi" title="AIビルダー" id="navi_link_builder">AIビルダー</a>
+</li>
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
 </li>
@@ -310,28 +304,76 @@ $('.login_show').remove();
 </script>
 
 <div class="genre_menu fc">
-        <ul>
-                <li ><a href="/" title="競馬データTOP">競馬データTOP</a></li>
-                <li ><a href="/?pid=horse_top" title="競走馬">競走馬</a></li>
-                <li ><a href="/?pid=jockey_top" title="騎手">騎手</a></li>
-                <li ><a href="/?pid=trainer_top" title="調教師">調教師</a></li>
-                <li ><a href="/?pid=owner_top" title="馬主">馬主</a></li>
-                <li ><a href="/?pid=breeder_top" title="生産者">生産者</a></li>
-                <li class="active"><a href="/?pid=race_top" title="レース">レース</a></li>
-                <li ><a href="/?pid=classic_index" title="クラシック">クラシック</a></li>
-                <li ><a href="https://db.sp.netkeiba.com/winner_search/home" title="勝ち馬サーチ">勝ち馬サーチ</a></li>
-        </ul>
+<ul>
+<li ><a href="/" title="競馬データTOP">競馬データTOP</a></li>
+<li ><a href="/?pid=horse_top" title="競走馬">競走馬</a></li>
+<li ><a href="/?pid=jockey_top" title="騎手">騎手</a></li>
+<li ><a href="/?pid=trainer_top" title="調教師">調教師</a></li>
+<li ><a href="/?pid=owner_top" title="馬主">馬主</a></li>
+<li ><a href="/?pid=breeder_top" title="生産者">生産者</a></li>
+<li class="active"><a href="/?pid=race_top" title="レース">レース</a></li>
+<li ><a href="/?pid=classic_index" title="クラシック">クラシック</a></li>
+<li ><a href="https://db.sp.netkeiba.com/winner_search/home" title="勝ち馬サーチ">勝ち馬サーチ</a></li>
+</ul>
 </div><!-- /.genre_menu -->
-
 <div id="contents" class="fc">
 <div id="main">
 <div class="netkeiba_toprace_block">
 <div class="race_head">
 <div class="race_head_inner">
 
+<ul class="race_place fc">
+<!-- li><a href="/race/list/20250126/" class="active">中京</a></li -->
+<li><a href="/race/202506010910/" >中山</a></li><li><a href="/race/202507010910/" class="active">中京</a></li><li><a href="/race/202510010210/" >小倉</a></li>
+<li class="result_link"><a href="/race/list/20250126/">2025年01月26日のレース結果</a></li>
+</ul>
+<div class="race_num fc">
+<ul class="fc">
+<li><a href="/race/202507010901/" title="R" >1R</a></li><li><a href="/race/202507010902/" title="R" >2R</a></li><li><a href="/race/202507010903/" title="R" >3R</a></li><li><a href="/race/202507010904/" title="R" >4R</a></li><li><a href="/race/202507010905/" title="R" >5R</a></li><li><a href="/race/202507010906/" title="R" >6R</a></li><li><a href="/race/202507010907/" title="R" >7R</a></li><li><a href="/race/202507010908/" title="R" >8R</a></li><li><a href="/race/202507010909/" title="R" >9R</a></li><li><a href="/race/202507010910/" title="R" class="active">10R</a></li><li><a href="/race/202507010911/" title="R" >11R</a></li><li><a href="/race/202507010912/" title="R" >12R</a></li>
+</ul>
+<p><a href="/race/sum/07/20250126/">一覧</a></p>
+<p><a href="/race/pay/07/20250126/" title="の払戻一覧">払戻し</a></p>
+</div><!-- /.race_num_ber -->
 
+<diary_snap>
+<div class="mainrace_data fc">
+<div class="data_intro">
+<dl class="racedata fc">
+<dt>
+10 R
+</dt>
+<dd>
+<h1>トリトンステークス(3勝)<!--img src="style/netkeiba.ja/image/race_grade_g2_01.png" alt=""--></h1>
+<p>
+<diary_snap_cut>
+<span>芝左1400m&nbsp;/&nbsp;天候 : 晴&nbsp;/&nbsp;芝 : 良&nbsp;/&nbsp;発走 : 14:50</span><br />
+<diary_snap_cut>
+<a href="/?pid=race_list&word=%A5%C8%A5%EA%A5%C8%A5%F3%A5%B9%A5%C6%A1%BC%A5%AF%A5%B9&front=1">過去のトリトンステークス</a>
+</diary_snap_cut>
+</p>
+</dd>
+</dl>
+<p class="smalltxt">2025年1月26日 1回中京9日目 4歳以上3勝クラス&nbsp;&nbsp;(混)(特指)(定量)</p>
+<diary_snap_cut>
+<ul class="btn_link_list fc">
+<li class="race_btn_MOVIE end">
+<a href="/race/movie/202507010910"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/race_btn_movie_on.png" alt="レース映像" class="imgover" /></a>
+</li>
+</ul>
 
-
+</diary_snap_cut>
+</div><!-- /.race_data_intro -->
+</div><!-- /.race_data_intro -->
+</diary_snap_cut>
+<diary_snap_cut>
+<script>
+$(function(){
+var is_classic = '0';
+if (is_classic == '1') {
+$('#db_race_detail').addClass('classic');
+};
+});
+</script>
 </div><!-- /.race_head_inner -->
 </div><!-- /.race_head -->
 </div><!-- /.netkeiba_toprace_block -->
@@ -362,6 +404,802 @@ $('.login_show').remove();
 <div class="race_result fc">
 <div id="contents_liquid">
 
+<!-- a href="/?pid=info&mode=premium" -->
+<!-- 映像・調教タイムなど<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="14" height="11" border="0" />マークの予想に役立つデータを見るには？ -->
+
+<!-- </a> -->
+</diary_snap_cut>
+<table class="race_table_01 nk_tb_common" summary="レース結果" cellspacing="1" cellpadding="0">
+<tr class="txt_c">
+<th nowrap="nowrap">着<br />順</th>
+<th nowrap="nowrap">枠<br />番</th>
+<th nowrap="nowrap">馬<br />番</th>
+<th nowrap="nowrap">馬名</th>
+<th nowrap="nowrap">性齢</th>
+<th nowrap="nowrap">斤量</th>
+<th nowrap="nowrap">騎手</th>
+<th nowrap="nowrap">タイム</th>
+<th nowrap="nowrap">着差</th>
+<diary_snap_cut>
+<th nowrap="nowrap">ﾀｲﾑ<br />指数<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="16" height="16" /></th>
+<th nowrap="nowrap">通過</th>
+<th nowrap="nowrap">上り</th>
+</diary_snap_cut>
+<th nowrap="nowrap">単勝</th>
+<th nowrap="nowrap">人<br />気</th>
+<th nowrap="nowrap">馬体重</th>
+<diary_snap_cut>
+<th nowrap="nowrap">調教<br />ﾀｲﾑ<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="16" height="16" /></th>
+<th nowrap="nowrap">厩舎<br />ｺﾒﾝﾄ<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="16" height="16" /></th>
+<th nowrap="nowrap">備考<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="16" height="16" /></th>
+</diary_snap_cut>
+<th nowrap="nowrap">調教師</th>
+<diary_snap_cut>
+<th nowrap="nowrap">馬主</th>
+<th nowrap="nowrap">賞金<br />(万円)</th>
+</diary_snap_cut>
+</tr>
+
+<tr>
+<td class="txt_r" nowrap="nowrap">1</td>
+<td class="w4ml" align="right" nowrap="nowrap"><span>4</span></td>
+<td class="txt_r" nowrap="nowrap">5</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2020102867/" title="フルメタルボディー" id="umalink_202507010910">フルメタルボディー</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">セ5</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01125/" title="国分優作">国分優作</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.1</td>
+<td class="txt_c" nowrap="nowrap"></td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">2-2</td>
+<td class="r2ml" class="txt_c" nowrap="nowrap"><span>34.3</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">12.4</td>
+<td class="bml" align="right" nowrap="nowrap"><span>5</span></td>
+<td nowrap="nowrap">504(+2)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2020102867&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2020102867&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01110/" title="清水久詞">清水久詞</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w4ml" nowrap="nowrap">
+<a href="/owner/result/recent/415800/" title="社台レースホース">社台レースホース</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1,870.1</td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">2</td>
+<td class="w1ml" align="right" nowrap="nowrap"><span>1</span></td>
+<td class="txt_r" nowrap="nowrap">1</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2020102630/" title="アルーリングビュー" id="umalink_202507010910">アルーリングビュー</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牝5</td>
+<td class="txt_c" nowrap="nowrap">56</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01088/" title="川田将雅">川田将雅</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.3</td>
+<td class="txt_c" nowrap="nowrap">1.1/4</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">4-4</td>
+<td class="r3ml" class="txt_c" nowrap="nowrap"><span>34.4</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">7.6</td>
+<td class="bml" align="right" nowrap="nowrap"><span>4</span></td>
+<td nowrap="nowrap">470(-2)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2020102630&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2020102630&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01130/" title="吉村圭司">吉村圭司</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w1ml" nowrap="nowrap">
+<a href="/owner/result/recent/415800/" title="社台レースホース">社台レースホース</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">748.6</td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">3</td>
+<td class="w7ml" align="right" nowrap="nowrap"><span>7</span></td>
+<td class="txt_r" nowrap="nowrap">11</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2020110039/" title="ユハンヌス" id="umalink_202507010910">ユハンヌス</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡5</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01163/" title="坂井瑠星">坂井瑠星</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.3</td>
+<td class="txt_c" nowrap="nowrap">ハナ</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">8-9</td>
+<td class="r1ml" class="txt_c" nowrap="nowrap"><span>34.1</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">2.2</td>
+<td class="r1ml" align="right" nowrap="nowrap"><span>1</span></td>
+<td nowrap="nowrap">472(-4)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2020110039&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2020110039&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01058/" title="大久保龍">大久保龍</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w7ml" nowrap="nowrap">
+<a href="/owner/result/recent/003060/" title="ゴドルフィン">ゴドルフィン</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">464.3</td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">4</td>
+<td class="w6ml" align="right" nowrap="nowrap"><span>6</span></td>
+<td class="txt_r" nowrap="nowrap">9</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2020102625/" title="アクートゥス" id="umalink_202507010910">アクートゥス</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡5</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01126/" title="松山弘平">松山弘平</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.4</td>
+<td class="txt_c" nowrap="nowrap">クビ</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">7-7</td>
+<td class="r3ml" class="txt_c" nowrap="nowrap"><span>34.4</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">5.6</td>
+<td class="r2ml" align="right" nowrap="nowrap"><span>2</span></td>
+<td nowrap="nowrap">464(+4)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2020102625&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2020102625&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01055/" title="藤原英昭">藤原英昭</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w6ml" nowrap="nowrap">
+<a href="/owner/result/recent/415800/" title="社台レースホース">社台レースホース</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">280.0</td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">5</td>
+<td class="w5ml" align="right" nowrap="nowrap"><span>5</span></td>
+<td class="txt_r" nowrap="nowrap">7</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2021105370/" title="キャプテンシー" id="umalink_202507010910">キャプテンシー</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡4</td>
+<td class="txt_c" nowrap="nowrap">57</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01186/" title="角田大和">角田大和</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.5</td>
+<td class="txt_c" nowrap="nowrap">1/2</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">14-12</td>
+<td class="r1ml" class="txt_c" nowrap="nowrap"><span>34.1</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">24.5</td>
+<td class="bml" align="right" nowrap="nowrap"><span>10</span></td>
+<td nowrap="nowrap">468(+4)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2021105370&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2021105370&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01092/" title="松永幹夫">松永幹夫</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w5ml" nowrap="nowrap">
+<a href="/owner/result/recent/226800/" title="サンデーレーシング">サンデーレーシング</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">184.0</td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">6</td>
+<td class="w3ml" align="right" nowrap="nowrap"><span>3</span></td>
+<td class="txt_r" nowrap="nowrap">3</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2019100659/" title="レベレンシア" id="umalink_202507010910">レベレンシア</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡6</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01157/" title="鮫島克駿">鮫島克駿</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.5</td>
+<td class="txt_c" nowrap="nowrap">クビ</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">2-2</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>34.8</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">6.5</td>
+<td class="r3ml" align="right" nowrap="nowrap"><span>3</span></td>
+<td nowrap="nowrap">504(-2)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2019100659&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2019100659&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01164/" title="安田翔伍">安田翔伍</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w3ml" nowrap="nowrap">
+<a href="/owner/result/recent/788800/" title="ノースヒルズ">ノースヒルズ</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">7</td>
+<td class="w7ml" align="right" nowrap="nowrap"><span>7</span></td>
+<td class="txt_r" nowrap="nowrap">12</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2021100494/" title="ガロンヌ" id="umalink_202507010910">ガロンヌ</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡4</td>
+<td class="txt_c" nowrap="nowrap">57</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01102/" title="北村友一">北村友一</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.5</td>
+<td class="txt_c" nowrap="nowrap">ハナ</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">12-12</td>
+<td class="r1ml" class="txt_c" nowrap="nowrap"><span>34.1</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">16.3</td>
+<td class="bml" align="right" nowrap="nowrap"><span>6</span></td>
+<td nowrap="nowrap">478(+4)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2021100494&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2021100494&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01168/" title="上村洋行">上村洋行</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w7ml" nowrap="nowrap">
+<a href="/owner/result/recent/053803/" title="杉山忠国">杉山忠国</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">8</td>
+<td class="w3ml" align="right" nowrap="nowrap"><span>3</span></td>
+<td class="txt_r" nowrap="nowrap">4</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2018106815/" title="ヴィアルークス" id="umalink_202507010910">ヴィアルークス</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡7</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01152/" title="小崎綾也">小崎綾也</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.6</td>
+<td class="txt_c" nowrap="nowrap">1/2</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">4-4</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>34.7</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">107.4</td>
+<td class="bml" align="right" nowrap="nowrap"><span>12</span></td>
+<td nowrap="nowrap">514(-4)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2018106815&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2018106815&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01185/" title="小林真也">小林真也</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w3ml" nowrap="nowrap">
+<a href="/owner/result/recent/046803/" title="フクキタル">フクキタル</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">9</td>
+<td class="w5ml" align="right" nowrap="nowrap"><span>5</span></td>
+<td class="txt_r" nowrap="nowrap">8</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2019102106/" title="ブリュットミレジメ" id="umalink_202507010910">ブリュットミレジメ</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡6</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01171/" title="西村淳也">西村淳也</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.6</td>
+<td class="txt_c" nowrap="nowrap">アタマ</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">8-7</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>34.5</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">19.5</td>
+<td class="bml" align="right" nowrap="nowrap"><span>7</span></td>
+<td nowrap="nowrap">508(0)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2019102106&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2019102106&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_02" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01095/" title="荒川義之">荒川義之</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w5ml" nowrap="nowrap">
+<a href="/owner/result/recent/036006/" title="加藤徹">加藤徹</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">10</td>
+<td class="w2ml" align="right" nowrap="nowrap"><span>2</span></td>
+<td class="txt_r" nowrap="nowrap">2</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2019105449/" title="アルトシュタット" id="umalink_202507010910">アルトシュタット</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡6</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/05212/" title="Ｍ．デム">Ｍ．デム</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.7</td>
+<td class="txt_c" nowrap="nowrap">クビ</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">1-1</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>35.1</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">23.0</td>
+<td class="bml" align="right" nowrap="nowrap"><span>9</span></td>
+<td nowrap="nowrap">496(+8)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2019105449&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2019105449&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01164/" title="安田翔伍">安田翔伍</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w2ml" nowrap="nowrap">
+<a href="/owner/result/recent/486800/" title="キャロットファーム">キャロットファーム</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">11</td>
+<td class="w6ml" align="right" nowrap="nowrap"><span>6</span></td>
+<td class="txt_r" nowrap="nowrap">10</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2020104332/" title="ルミノメテオール" id="umalink_202507010910">ルミノメテオール</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牝5</td>
+<td class="txt_c" nowrap="nowrap">56</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01208/" title="田口貫太">田口貫太</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.7</td>
+<td class="txt_c" nowrap="nowrap">クビ</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">8-9</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>34.5</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">95.3</td>
+<td class="bml" align="right" nowrap="nowrap"><span>11</span></td>
+<td nowrap="nowrap">458(-6)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2020104332&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2020104332&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[東]
+<a href="/trainer/result/recent/01132/" title="金成貴史">金成貴史</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w6ml" nowrap="nowrap">
+<a href="/owner/result/recent/566006/" title="尾上松壽">尾上松壽</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">12</td>
+<td class="w4ml" align="right" nowrap="nowrap"><span>4</span></td>
+<td class="txt_r" nowrap="nowrap">6</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2019101079/" title="アスクビギンアゲン" id="umalink_202507010910">アスクビギンアゲン</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牡6</td>
+<td class="txt_c" nowrap="nowrap">58</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01128/" title="川須栄彦">川須栄彦</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:22.9</td>
+<td class="txt_c" nowrap="nowrap">1.1/4</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">8-9</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>34.7</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">187.3</td>
+<td class="bml" align="right" nowrap="nowrap"><span>13</span></td>
+<td nowrap="nowrap">566(-8)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2019101079&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2019101079&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01084/" title="梅田智之">梅田智之</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w4ml" nowrap="nowrap">
+<a href="/owner/result/recent/539002/" title="廣崎利洋">廣崎利洋</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">13</td>
+<td class="w8ml" align="right" nowrap="nowrap"><span>8</span></td>
+<td class="txt_r" nowrap="nowrap">13</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2019105209/" title="エピプランセス" id="umalink_202507010910">エピプランセス</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牝6</td>
+<td class="txt_c" nowrap="nowrap">56</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/00732/" title="幸英明">幸英明</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:23.6</td>
+<td class="txt_c" nowrap="nowrap">4</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">4-4</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>35.7</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">22.1</td>
+<td class="bml" align="right" nowrap="nowrap"><span>8</span></td>
+<td nowrap="nowrap">450(+4)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2019105209&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2019105209&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[西]
+<a href="/trainer/result/recent/01144/" title="池添学">池添学</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w8ml" nowrap="nowrap">
+<a href="/owner/result/recent/226800/" title="サンデーレーシング">サンデーレーシング</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr><tr>
+<td class="txt_r" nowrap="nowrap">14</td>
+<td class="w8ml" align="right" nowrap="nowrap"><span>8</span></td>
+<td class="txt_r" nowrap="nowrap">14</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/horse/2020106954/" title="タイセイキューティ" id="umalink_202507010910">タイセイキューティ</a>
+
+</td>
+<td class="txt_c" nowrap="nowrap">牝5</td>
+<td class="txt_c" nowrap="nowrap">56</td>
+<td class="txt_l" nowrap="nowrap">
+<a href="/jockey/result/recent/01144/" title="菱田裕二">菱田裕二</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap">1:23.9</td>
+<td class="txt_c" nowrap="nowrap">2</td>
+
+<diary_snap_cut>
+<td class="speed_index bml" nowrap="nowrap">
+<div class="txt_c">
+<a href="https://www.netkeiba.com/premium/?service=p13" id="a_monthly_goods_link_01" data-theme="07003">**</a>
+</div>
+
+</td>
+<td nowrap="nowrap">12-12</td>
+<td class="bml" class="txt_c" nowrap="nowrap"><span>35.5</span></td>
+</diary_snap_cut>
+<td class="txt_r" nowrap="nowrap">261.8</td>
+<td class="bml" align="right" nowrap="nowrap"><span>14</span></td>
+<td nowrap="nowrap">464(+4)</td>
+<diary_snap_cut>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_training&id=2020106954&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_oikiri.gif" width="13" height="13" border="0" /></a>
+</td>
+<td class="txt_c" nowrap="nowrap">
+<a href="/?pid=horse_comment&id=2020106954&rid=202507010910"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+</td>
+<td nowrap="nowrap">
+
+
+</td>
+</diary_snap_cut>
+<td class="txt_l" nowrap="nowrap">
+[東]
+<a href="/trainer/result/recent/01145/" title="奥村武">奥村武</a>
+
+</td>
+<diary_snap_cut>
+<td class="txt_l w8ml" nowrap="nowrap">
+<a href="/owner/result/recent/224007/" title="田中成奉">田中成奉</a>
+
+</td>
+<td class="txt_r" nowrap="nowrap"></td>
+</diary_snap_cut>
+</tr>
+</table>
 
 </diary_snap>
 <script type="text/javascript" src="/style/netkeiba.ja/js/umalink.js"></script>
@@ -427,12 +1265,73 @@ location.reload();
 <div id="contents" class="fc">
 <div class="result_info box_left">
 
-<!-- -->
+<diary_snap>
+<dl class="pay_block">
+<dt><h3>払い戻し</h3></dt>
+<dd class="fc">
+<table cellpadding="0" cellspacing="1" class="pay_table_01" summary="払い戻し">
+<tr>
+<th class="tan">単勝</th>
+<td>5</td>
+<td class="txt_r">1,240</td>
+<td class="txt_r">5</td>
+</tr>
+<tr>
+<th class="fuku" align="center">複勝</th>
+<td>5<br />1<br />11</td>
+<td class="txt_r">310<br />210<br />130</td>
+<td class="txt_r">6<br />3<br />1</td>
+</tr>
+<tr>
+<th class="waku" align="center">枠連</th>
+<td>1 - 4</td>
+<td class="txt_r">5,620</td>
+<td class="txt_r">20</td>
+</tr>
+<tr>
+<th class="uren" align="center">馬連</th>
+<td>1 - 5</td>
+<td class="txt_r">6,310</td>
+<td class="txt_r">23</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="1" class="pay_table_01" summary="払い戻し">
+<tr>
+<th class="wide">ワイド</th>
+<td>1 - 5<br />5 - 11<br />1 - 11</td>
+<td class="txt_r">1,860<br />740<br />370</td>
+<td class="txt_r">24<br />6<br />2</td>
+</tr>
+
+<tr>
+<th class="utan">馬単</th>
+<td>5 → 1</td>
+<td class="txt_r">13,430</td>
+<td class="txt_r">48</td>
+</tr>
+<tr>
+<th class="sanfuku">三連複</th>
+<td>1 - 5 - 11</td>
+<td class="txt_r">4,020</td>
+<td class="txt_r">13</td>
+</tr>
+<tr>
+<th class="santan">三連単</th>
+<td>5 → 1 → 11</td>
+<td class="txt_r">43,670</td>
+<td class="txt_r">144</td>
+</tr>
+</table>
+</dd>
+</dl>
+</diary_snap>
 <table width="100%" cellpadding="0" cellspacing="0" class="result_table_02" summary="馬場情報">
 <caption>馬場情報</caption>
 <tr>
 
-<!-- -->
+
+<th>馬場指数<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="16" height="16" /></th>
+<td>プレミアサービスにご加入して頂くと<a href="/?pid=info&mode=premium" id="a_monthly_goods_link_22" data-theme="07002">馬場指数</a>が確認できます。<br /><a href="https://regist.netkeiba.com/?pid=premium" id="a_monthly_goods_link_23" data-theme="07002">プレミアサービス案内へ</a></td>
 </tr>
 <tr>
 
@@ -440,13 +1339,49 @@ location.reload();
 </tr>
 </table>
 
-
+<table width="100%" cellpadding="0" cellspacing="0" class="result_table_02" summary="コーナー通過順位">
+<caption>コーナー通過順位</caption>
+<tr>
+<th>3コーナー</th>
+<td>2(3,5)(1,4,13)9(8,6,10,11)(12,14)7</td>
+</tr><tr>
+<th>4コーナー</th>
+<td>2(3,5)(1,4,13)(8,9)(6,10,11)(7,12,14)</td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" class="result_table_02" summary="ラップタイム">
+<caption>ラップタイム</caption>
+<tr>
+<th>ラップ</th>
+<td class="race_lap_cell">12.6 - 11.5 - 11.5 - 12.0 - 11.8 - 11.0 - 11.7</td>
+</tr>
+<tr>
+<th>ペース</th>
+<td class="race_lap_cell">12.6 - 24.1 - 35.6 - 47.6 - 59.4 - 70.4 - 82.1&nbsp;(35.6-34.5)</td>
+</tr>
+</table>
 </div><!-- /.result_left -->
 <div class="result_info box_right">
 
-<!-- -->
 
-<!-- -->
+<table width="100%" cellpadding="0" cellspacing="0" class="result_table_02" summary="レース分析">
+<caption>レース分析</caption>
+<tr>
+<th>分析コメント<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="16" height="16" />&nbsp;(<a href="/?pid=info&mode=premium" id="a_monthly_goods_link_62" data-theme="07006">?</a>)</th>
+<td>プレミアサービスにご加入して頂くと<a href="/?pid=info&mode=premium" id="a_monthly_goods_link_63" data-theme="07006">レース分析</a>が確認できます。<br /><a href="https://regist.netkeiba.com/?pid=premium" id="a_monthly_goods_link_64" data-theme="07006">プレミアサービス案内へ</a></td>
+</tr>
+</table>
+
+
+<table width="100%" cellpadding="0" cellspacing="0" class="result_table_02" summary="注目馬 レース後の短評">
+<caption>注目馬 レース後の短評<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/ico_premium.gif" width="16" height="16" />&nbsp;(<a href="/?pid=info&mode=premium" id="a_monthly_goods_link_92" data-theme="07009">?</a>)</caption>
+<tr>
+<th>着順:馬名</th>
+</tr>
+<tr>
+<td>プレミアサービスにご加入して頂くと<a href="/?pid=info&mode=premium" id="a_monthly_goods_link_93" data-theme="07009">レース後の短評</a>が確認できます。<br /><a href="https://regist.netkeiba.com/?pid=premium" id="a_monthly_goods_link_94" data-theme="07009">プレミアサービス案内へ</a></td>
+</tr>
+</table>
 </div><!-- /.result_right -->
 
 
@@ -465,10 +1400,6 @@ gnshbrequest.applyPassback("1492793", "[data-cptid='1492793']");
 
 </div><!-- /#contents -->
 <div class="LapTimeArea">
-<p class="master_course_infoText01">netkeibaに<em>「マスターコース」</em>が新登場!!</p>
-<div class="master_course_infoText02">
-<p><a href="https://dir.netkeiba.com/master_course/">今だけスーパープレミアムコースで限定公開中 詳細はこちら</a></p>
-</div>
 <span id="Race_Result_Horse_Laptime"></span>
 <script>
 function get_race_result_horse_laptime(_id, _show_id, _credit=0)
